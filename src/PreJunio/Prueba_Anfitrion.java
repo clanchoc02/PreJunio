@@ -7,6 +7,8 @@ public class Prueba_Anfitrion {
 			System.out.println("Hola mundo");
 			
 			System.out.println("Buenas noches, mundo");
+
+			System.out.println("Que viva dios");
 			
 		}
 
